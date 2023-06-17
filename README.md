@@ -9,3 +9,5 @@ Repositorio de proyectos de data science y análisis de datos. Proyectos con fin
 
 * Machine learning
   * [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb): Logistic Regression model for a telecommunication company in order to predict when customers leave for a competitor, so that they can take some action to retain the customers.
+  * [Clustering model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb):
+ Clustering model using KMeans, PCA and Autoencoders for an advertising marketing campaign based on customer's data from a bank.
