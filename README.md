@@ -12,7 +12,7 @@ Repositorio de proyectos de data science y análisis de datos. Proyectos con fin
   * [Clustering model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb):
  Clustering model using KMeans, PCA and Autoencoders for an advertising marketing campaign based on customer's data from a bank.
   * [Madrid Cafeteria](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb):
- Analyze Districts in Madrid to open a cafeteria based on COVID cases from 2021, using KMeans, Folium maps and the Foursquare API.
+ Analyze Madrid's Districts for opening a cafeteria based on COVID cases from 2021, using KMeans, Folium maps and the Foursquare API.
 * Deep Learning
   * [X-Ray image recognition](https://github.com/jjsilvera/data-science-portfolio/blob/main/X-Ray%20image%20recognition.ipynb):
   Clasification tasks and prediction of respiratory diseases based on X-Ray images using Convolutional Neural Networks.
