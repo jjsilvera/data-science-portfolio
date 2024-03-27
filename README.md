@@ -6,6 +6,7 @@ Repositorio de proyectos de data science y análisis de datos. Proyectos con fin
 
 * Análisis de datos y visualización
   * [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb): Análisis exploratorio inicial del Automobile dataset, con el fin de predecir su precio basado en sus características.
+  * [Dashboard Tickets IT](https://app.powerbi.com/groups/me/reports/1677ccf3-921c-4d3c-8d67-fddd477bd1b7/ReportSectionf5b71a34fdba42f25c58?experience=power-bi&clientSideAuth=0&bookmarkGuid=Bookmark08cb71d58534fa3316e6): Dashboard realizado con Power Bi el cual muestra la gestión de tickets y solicitudes de issues del sector IT de una empresa tech.
 
 * Machine learning
   * [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb): Logistic Regression model for a telecommunication company in order to predict when customers leave for a competitor, so that they can take some action to retain the customers.
