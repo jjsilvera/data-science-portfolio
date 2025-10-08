@@ -6,12 +6,13 @@ Repositorio de proyectos de data science y análisis de datos. Proyectos con fin
 
 * Análisis de datos y visualización
   * [Exploratory Data Analysis - Car Prices](https://github.com/jjsilvera/data-science-portfolio/blob/main/Exploratory%20Data%20Analysis%20of%20Car%20Prices.ipynb): Análisis exploratorio inicial del Automobile dataset, con el fin de predecir su precio basado en sus características.
-  * Machine learning
-  * [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb): Logistic Regression model for a telecommunication company in order to predict when customers leave for a competitor, so that they can take some action to retain the customers.
+  
+* Machine learning
+  * [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb): Modelo de regresión logística para una empresa de telecomunicaciones con el fin de predecir cuándo los clientes se marchan a la competencia, de modo que puedan tomar medidas para retenerlos.
   * [Clustering model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb):
- Clustering model using KMeans, PCA and Autoencoders for an advertising marketing campaign based on customer's data from a bank.
+ Modelo de Clustering utilizando KMeans, PCA y autoencoders para una campaña de marketing publicitario basada en los datos de los clientes de un banco.
   * [Madrid Cafeteria](https://nbviewer.org/github/jjsilvera/data-science-portfolio/blob/main/Project_Madrid_cafeteria_cluster.ipynb):
- Analyze Madrid's Districts for opening a cafeteria based on COVID cases from 2021, using KMeans, Folium maps and the Foursquare API.
+ Analizar los distritos de Madrid para abrir una cafetería basándose en los casos de COVID de 2021, utilizando KMeans, Folium maps y la API de Foursquare.
   * [NLP - Naive Bayes Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/NLP_MultinomialNB.ipynb):
  Pass.
 * Deep Learning
