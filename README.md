@@ -11,7 +11,7 @@ Repositorio de proyectos de data science y análisis de datos. Proyectos con fin
   * [Logistic regression model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Logistic%20Regression%20model.ipynb): Modelo de regresión logística para una empresa de telecomunicaciones con el fin de predecir cuándo los clientes se marchan a la competencia, de modo que puedan tomar medidas para retenerlos.
   * [Clustering model](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb):
  Modelo de Clustering utilizando KMeans, PCA y autoencoders para una campaña de marketing publicitario basada en los datos de los clientes de un banco.
-  * [Madrid Cafeteria](https://github.com/jjsilvera/data-science-portfolio/blob/main/Cluster_analysis.ipynb):
+  * [Madrid Cafeteria](https://colab.research.google.com/drive/19DPfJpg-CxN5yN4VPcpuY9gL7n5egcB1?usp=sharing):
  Analizar los distritos de Madrid para abrir una cafetería basándose en los casos de COVID de 2021, utilizando KMeans, Folium maps y la API de Foursquare.
   * [NLP - Naive Bayes Model](https://github.com/jjsilvera/data-science-portfolio/blob/main/NLP_MultinomialNB.ipynb):
  Pass.
